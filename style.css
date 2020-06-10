@@ -12,7 +12,14 @@
   text-align: center;
   background-color: lightgray;
 }
+
 #input {
   height: 20px;
   margin: 20px;
+}
+
+#button {
+  height: 30px;
+  padding: 5px;
+  border-radius: 95%;
 }
