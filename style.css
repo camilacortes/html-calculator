@@ -1,0 +1,18 @@
+#addition {
+  background-color: lightblue;
+  text-align: center;
+}
+
+#subtraction {
+  text-align: center;
+  background-color: lightgreen;
+}
+
+#multiplication {
+  text-align: center;
+  background-color: lightgray;
+}
+#input {
+  height: 20px;
+  margin: 20px;
+}
